@@ -12,7 +12,7 @@ Trabajo con **Python**, **FastAPI** y APIs de LLMs como **Claude** y **OpenAI** 
 ```
 IA & Automatización   Claude API · OpenAI API · Prompt Engineering · LLM Integration
 Backend               Python · FastAPI · Java · Spring Boot
-Frontend              Angular · HTML5 · CSS
+Frontend              Angular · HTML5 · CSS · Astro
 Bases de datos        SQL
 Herramientas IA dev   Claude Code · GitHub Copilot · Gemini
 Aprendiendo           n8n · Streamlit · LangChain

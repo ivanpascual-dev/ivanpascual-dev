@@ -22,7 +22,7 @@ Aprendiendo           n8n · Streamlit · LangChain
 
 ## 🚀 Proyectos activos
 
-### [finance-portfolio-ai](https://github.com/ivanpascual-dev/finance-portfolio-ai)
+### [AlBiVi](https://github.com/ivanpascual-dev/albivi)
 App para sustituir el seguimiento de inversiones en Google Sheets.  
 Datos de mercado en tiempo real + análisis automatizado con LLMs.  
 `Python` `FastAPI` `Claude API` `OpenAI API` `Pandas`

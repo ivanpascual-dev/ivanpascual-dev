@@ -1,45 +1,54 @@
-# Iván Pascual — AI Automation Developer
+# Iván Pascual
+**AI Engineer & Full-Stack Developer**
 
-Desarrollador con background full-stack enfocado en automatización con IA.  
-Si algo se puede automatizar, hay que automatizarlo.
+Construyo productos AI-first en producción: sistemas multi-agente, automatizaciones y plataformas completas desde cero.
 
-Trabajo con **Python**, **FastAPI** y APIs de LLMs como **Claude** y **OpenAI** para construir herramientas que resuelven problemas reales.
+> Si algo se puede automatizar, hay que automatizarlo.
+
+Trabajo a diario con Python, FastAPI, TypeScript y las APIs de Claude, OpenAI y Gemini, dirigiendo gran parte del desarrollo con **Claude Code**.
 
 ---
 
 ## 🔧 Stack principal
 
-```
-IA & Automatización   Claude API · OpenAI API · Prompt Engineering · LLM Integration
-Backend               Python · FastAPI · Java · Spring Boot
-Frontend              Angular · HTML5 · CSS · Astro
-Bases de datos        SQL
-Herramientas IA dev   Claude Code · GitHub Copilot · Gemini
-Aprendiendo           n8n · Streamlit · LangChain
-```
+IA & Agentes      Claude · OpenAI · Gemini · Multi-Agent Systems · Tool Use · Prompt Engineering
+Backend           Python · FastAPI · Node.js · TypeScript
+Frontend          Astro · HTML5 · CSS
+Datos & Infra     PostgreSQL (Neon) · Drizzle ORM · Stripe · REST APIs · Git · Vercel
+Dev con IA        Claude Code · Antigravity
+Aprendiendo       Next.js · LangChain · n8n
+También           Java · Spring Boot · Angular · PHP · WordPress
+
+
 
 ---
 
 ## 🚀 Proyectos activos
 
-### [AlBiVi](https://github.com/ivanpascual-dev/albivi)
-App para sustituir el seguimiento de inversiones en Google Sheets.  
-Datos de mercado en tiempo real + análisis automatizado con LLMs.  
-`Python` `FastAPI` `Claude API` `OpenAI API` `Pandas`
+### [La Asignatura Pendiente](https://github.com/ivanpascual-dev/asignatura-pendiente-showcase) · [🌐 Demo](https://asignaturapendiente.es)
+Plataforma full-stack en producción: tienda con Stripe, contenido protegido,
+comunidad PWA y dos agentes de IA (atención al usuario + gestión del negocio).
 
-### [ai-web-psychology](https://github.com/ivanpascual-dev/ai-web-psychology)
-Plataforma web con automatización de contenido mediante IA  
-para un proyecto de psicología y desarrollo personal.  
-`WordPress` `Python` `OpenAI API`
+![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+
+### [Albivi](https://github.com/ivanpascual-dev/albivi) · AI Finance Agent
+Agente financiero conversacional con tool-use: consulta cartera, gastos e ingresos en
+tiempo real, más un agente mensual autónomo que analiza la cartera y emite
+recomendaciones de inversión. Sustituye el tracking previo en Google Sheets.
+`Python` `FastAPI` `Claude API` `OpenAI API` `Pandas`
 
 ---
 
 ## 📫 Contacto
 
 - 💼 [LinkedIn](https://linkedin.com/in/iprodriguez)
-- 📧 ivanpascual988@gmail.com
+- 📧 [ivanpascual988@gmail.com](mailto:ivanpascual988@gmail.com)
 - 📍 Madrid, España
 
 ---
 
-*Disponibilidad inmediata — abierto a roles de AI Automation, Python Developer o posiciones donde la IA sea protagonista.*
+*Disponibilidad inmediata. Abierto a roles de AI Engineer, desarrollo full-stack o cualquier posición donde la IA sea protagonista.*

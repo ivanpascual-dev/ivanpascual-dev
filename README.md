@@ -95,4 +95,4 @@ donde se gestiona todo el negocio conversando (Claude, 29 herramientas). Auth pr
 
 ---
 
-*Disponibilidad inmediata. Abierto a roles de AI Engineer, desarrollo full-stack o cualquier posición donde la IA sea protagonista.*
+*Disponibilidad inmediata. Buscando un equipo donde seguir creciendo como desarrollador de IA.*

@@ -7,7 +7,7 @@ Construyo productos AI-first en producción: sistemas multi-agente, automatizaci
 
 Vengo del desarrollo full stack y del soporte IT (retail, aeronáutico, logística con AS400/RPG), y desde marzo de 2026 estoy centrado a tiempo completo en la IA: mantengo en producción **Albivi** (gestión financiera personal con agentes) y **Asignatura Pendiente** (plataforma con pagos y backoffice conversacional), mientras curso el Máster en Desarrollo de IA.
 
-🌐 **[ivanpascualrodriguez.com](https://ivanpascualrodriguez.com)** — proyectos, stack y cómo trabajo, todo en un sitio.
+🌐 **[ivanpascualrodriguez.com](https://ivanpascualrodriguez.com)** · proyectos, stack y cómo trabajo, todo en un sitio.
 
 ---
 

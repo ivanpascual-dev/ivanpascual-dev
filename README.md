@@ -97,11 +97,31 @@ Gemini → Claude si el modelo principal no responde. 18 ADR documentadas y purg
 ![Showcase](https://img.shields.io/badge/Showcase-6B7280?logoColor=white)
 
 
+### [Chronorium](https://github.com/ivanpascual-dev/chronorium) · Motor open source de informes periódicos con IA
+
+**Código público (MIT), no un showcase.** Motor genérico que convierte cualquier tema que sigas en un
+informe periódico con opinión: el tema, las fuentes, el tono y la estructura viven en una **receta**
+(YAML + Markdown que editas), nunca en el código. Sin servidor ni panel: corre en **GitHub Actions** y
+el propio repositorio hace de base de datos. 5 tipos de fuente, 3 canales de entrega (email, Telegram,
+webhook) y 3 proveedores de modelo intercambiables con cadena de respaldo. Reescritura completa del
+original a partir de **5 fallos medidos en 49 días** de ejecución desatendida: los enlaces que devuelve
+el modelo se validan **en código**, no se le piden en el prompt; el estado de salud viaja dentro del
+informe; y la CI falla si la documentación deja de coincidir con el código. 44 ficheros de test y 22 ADR.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js%2024-5FA04E?logo=nodedotjs&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
+![Biome](https://img.shields.io/badge/Biome-60A5FA?logo=biome&logoColor=white)
+![Agentes IA](https://img.shields.io/badge/Agentes%20de%20IA-8B5CF6?logoColor=white)
+![MIT](https://img.shields.io/badge/Licencia-MIT-22C55E?logoColor=white)
+![Código público](https://img.shields.io/badge/C%C3%B3digo%20p%C3%BAblico-16A34A?logoColor=white)
+
+
 ### Otros proyectos
 
-- **Chronorium**: agente autónomo (Node.js + Gemini API) que envía cada día un informe
-  personalizado de novedades de IA, con dashboard para gestionar fuentes, historial y modelo. En
-  producción; showcase pendiente de publicar.
 - **Fitness Harness**: sistema multi-agente (Claude API) con orquestador + subagentes
   especializados (entrenador, nutricionista, sueño, revisor) para seguimiento de salud y
   rendimiento. En desarrollo.
